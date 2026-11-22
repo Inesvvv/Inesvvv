@@ -1,6 +1,6 @@
 # Hi, I'm Inès 👋
 
-Student at **École Polytechnique**, interested in **optimization, machine learning and computational methods for data science**. I like building algorithms from first principles and testing them carefully.
+Student at **École Polytechnique**, interested in **optimization, machine learning and computational methods for data science**.
 
 ## Featured projects
 
